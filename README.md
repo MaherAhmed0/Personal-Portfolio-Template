@@ -8,12 +8,12 @@ To get started with the Portfolio Template, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/MaherAhmed0/personal-portfolio-template.git
+   git clone https://github.com/MaherAhmed0/Personal-Portfolio-Template.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd personal-portfolio-template
+   cd Personal-Portfolio-Template
    ```
 
 3. Install dependencies:
@@ -35,6 +35,6 @@ To get started with the Portfolio Template, follow these steps:
 
 ## Contributing
 
-Contributions are welcome to help improve the Portfolio Template. If you encounter any issues or have suggestions for new features, please don't hesitate to [create an issue](https://github.com/MaherAhmed0/personal-portfolio-template/issues) or [submit a pull request](https://github.com/MaherAhmed0/personal-portfolio-template/pulls).
+Contributions are welcome to help improve the Portfolio Template. If you encounter any issues or have suggestions for new features, please don't hesitate to [create an issue](https://github.com/MaherAhmed0/Personal-Portfolio-Template/issues) or [submit a pull request](https://github.com/MaherAhmed0/Personal-Portfolio-Template/pulls).
 
 Feel free to explore and customize the template to create a unique portfolio that showcases your projects in style!
